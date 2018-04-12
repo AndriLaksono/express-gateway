@@ -13,7 +13,7 @@ apiEndpoints:
     host: localhost
     paths: '/get'
     scopes:
-       - 'veiwget'
+       - 'viewget'
 serviceEndpoints:
   httpbin:
     url: 'https://httpbin.org'

@@ -1,5 +1,5 @@
 {
-  "name": "my-gateway",
+  "name": "express-gateway-with-jwt-scopes",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
