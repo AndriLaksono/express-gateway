@@ -1,0 +1,10 @@
+{
+  "name": "my-gateway",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express-gateway": "^1.8.1",
+    "express-jwt-authz": "^1.0.0",
+    "jwtScopes": "file:jwtScopes"
+  }
+}
